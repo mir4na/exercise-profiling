@@ -22,6 +22,16 @@
 ![image](https://github.com/user-attachments/assets/f271dee1-14e2-4e6b-9b23-9c149f348630)
 ![image](https://github.com/user-attachments/assets/f074f07d-65f5-4a5f-8b95-e6194e6307e7)
 
+# Hasil Optimisasi
+
+<b>/all-student-name</b>
+
+Sebelum saya melakukan optimasi, average pada endpoint /all-student-name saya sebesar 64621 ms. Setelah, saya lakukan optimasi, terjadi penurunan drastis yaitu 12231 ms.
+
+<b>/highest-gpa</b>
+
+Sebelum saya melakukan optimasi, average pada endpoint /highest-gpa saya sebesar 825 ms. Setelah, saya lakukan optimasi, terjadi sedikit penurunan yaitu 612 ms.
+
 # Reflection
 
 1. What is the difference between the approach of performance testing with JMeter and profiling with IntelliJ Profiler in the context of optimizing application performance?
